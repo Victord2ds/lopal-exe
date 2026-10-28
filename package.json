@@ -1,0 +1,21 @@
+{
+  "name": "lopal-exe",
+  "version": "1.0.0",
+  "description": "lopal-exe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victord2ds/lopal-exe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Victord2ds/lopal-exe/issues"
+  },
+  "homepage": "https://github.com/Victord2ds/lopal-exe#readme"
+}
